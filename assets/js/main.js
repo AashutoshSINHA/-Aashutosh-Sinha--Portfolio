@@ -10,15 +10,16 @@ if(navToggle){
         navMenu.classList.add('show-menu')
     })
 }
-if(newsletter__subscribe){
+
 //    <form action="" class="newsletter__subscribe">
 //                     <input type="email" placeholder="Enter your email" class="newsletter__input">
 //                     <button class="button">
 //                             SUBSCRIBE
 //                         </button>
 //                 </form>
-    alert("Thank you! We will Contact You❤️");  
-}
+if(newsletter__subscribe){
+    alert("Thank you! We will Contact You❤️")} 
+
 /*===== MENU HIDDEN =====*/
 /* Validate if constant exists */
 if(navClose){
