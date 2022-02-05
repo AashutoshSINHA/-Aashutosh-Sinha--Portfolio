@@ -17,8 +17,7 @@ if(navToggle){
 //                             SUBSCRIBE
 //                         </button>
 //                 </form>
-if(newsletter__subscribe){
-    alert("Thank you! We will Contact You❤️")} 
+
 
 /*===== MENU HIDDEN =====*/
 /* Validate if constant exists */
