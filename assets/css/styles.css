@@ -536,7 +536,11 @@ body.dark-theme {
     transition: .3s; */
     /* box-shadow: 0 12px 24px hsla(0, 0%, 10%, .2); */
     padding: 0px 250px;
-    justify-content: flex;
+/*     justify-content: flex; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     
 }
 
