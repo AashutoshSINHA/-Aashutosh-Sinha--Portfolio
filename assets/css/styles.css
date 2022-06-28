@@ -502,6 +502,7 @@ body.dark-theme {
 
 .story__description {
     margin-bottom: var(--mb-2-5);
+    text-align: justify;
 }
 
 .story__images {
