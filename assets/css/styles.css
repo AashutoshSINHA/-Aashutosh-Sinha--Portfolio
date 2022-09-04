@@ -1183,9 +1183,9 @@ body.dark-theme {
         column-gap: 2rem;
         padding: 4.5rem;
     }
-    .newsletter__subscribe {
+/*     .newsletter__subscribe {
         flex-direction: row;
-    }
+    } */
     .newsletter__input {
         width: 100%;
     }
