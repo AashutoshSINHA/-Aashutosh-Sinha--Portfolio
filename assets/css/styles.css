@@ -598,9 +598,9 @@ body.dark-theme {
 }
 
 .products__button {
-    background-color: #F0FFFF;
+    background-color: rgb(240 255 255);
     padding: .4rem;
-    color: #fff;
+    color: #F0FFFF;
     font-size: 1rem;
     position: absolute;
     right: 0;
@@ -609,7 +609,7 @@ body.dark-theme {
 }
 
 .products__button:hover {
-    background-color: var(--button-color-alt);
+    background-color: #DC143C;
 }
 
 .products__card:hover {
