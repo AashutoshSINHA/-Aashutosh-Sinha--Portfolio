@@ -11,6 +11,14 @@ if(navToggle){
     })
 }
 
+//    <form action="" class="newsletter__subscribe">
+//                     <input type="email" placeholder="Enter your email" class="newsletter__input">
+//                     <button class="button">
+//                             SUBSCRIBE
+//                         </button>
+//                 </form>
+
+
 /*===== MENU HIDDEN =====*/
 /* Validate if constant exists */
 if(navClose){
